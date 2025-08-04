@@ -2,7 +2,6 @@ requests
 pandas
 numpy
 scikit-learn
-hdbscan
 sentence-transformers
 bertopic
 umap-learn
